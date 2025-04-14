@@ -8,11 +8,11 @@ description: a website all about me!
 username: Jacob Lazarchik
 user_description: Lifelong Learner.
 user_title: Research Scientist
-email: anon@anon.com
+email: lazarchik.jacob@gmail.com
 github_username:  JacobGitz
 
 # Google-analytics
-google-analytics:
-  id: ""
+#google-analytics:
+  #id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+#exclude: ['package.json', 'src' , 'node_modules']
